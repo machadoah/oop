@@ -1,3 +1,5 @@
+package versao1_confome_solicitado;
+
 public class Fatura {
     private String numeroPeca;
     private String descricaoPeca;

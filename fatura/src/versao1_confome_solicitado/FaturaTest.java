@@ -1,5 +1,8 @@
+package versao1_confome_solicitado;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class FaturaTest {
